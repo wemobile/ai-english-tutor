@@ -28,7 +28,7 @@ git clone git@github.com/wemobile/ai-english-tutor.git
 cd ai-english-tutor
 .\aitutor\Scripts\activate
 ```
-- 차후 Python 가상환경을 완료(또는 다른 가상환경으로 이동)하기 위해서는 .\aitutor\Scripts\deactivate.bat 실행
+- 차후 Python 가상환경을 종료(또는 다른 가상환경으로 이동)하기 위해서는 .\aitutor\Scripts\deactivate.bat 실행
 
 2. Install required Python packages:
 ```bash
