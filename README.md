@@ -39,6 +39,10 @@ pip install -r requirements.txt
 
 Set your OpenAI API keys as environment variables and store it in `.env` as `OPENAI_API_KEY`
 
+```
+OPENAI_API_KEY=sk-M4BeOHJ...
+```
+
 ## Running the Project
 
 1. Launch Jupyter Notebook:
