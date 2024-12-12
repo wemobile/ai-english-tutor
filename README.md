@@ -5,7 +5,7 @@
 1. Mac 상에서 사용되는 필요 파이썬 라이브러리를 Windows PC용으로 변경하였고( requirements.txt 참조), 
 2. Python 가상환경 venv 사용으로 다른 프로그램과 라이브러리 충돌이 생기지 않도록 했으며 
 3. 에러가 발생하는 부분에 대해 고쳤습니다.
-- 그리고 윈도우 PC 기준으로 되어있는 명령어는 리눅스 등에서는 역슬래시를 슬래시로 변경하는 등 적절히 변경하시기 바랍니다.
+- 그리고 윈도우 PC 기준으로 되어있는 명령어는 리눅스 등에서는 역슬래시를 슬래시로 변경하는 등이 필요합니다.
 
 ## Overview
 This project is an AI-powered English tutor that leverages various OpenAI APIs to create an interactive learning experience. It combines the capabilities of Chat Completions, Whisper (Speech to Text), and Text-to-Speech (TTS) to facilitate an engaging and dynamic English learning environment.
